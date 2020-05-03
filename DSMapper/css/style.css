@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(72, 127, 129);
+    margin-left: 20px;
+}
+
+#add {
+    background-color: lightcoral;
+    border-radius: 15px;
+    margin-left: 20px;
+    padding: 8px 20px;
+    color: white;
+    font-size: 18px;
+    border: 0;
+}
+
+#number_block {
+    display: inline-flex;
+}
+
+#add:hover {
+    color: red;
+    transform: scale(1.03);
+}
+
+input {
+    padding: 10px 0px 10px 10px;
+    text-align: end;
+}
+
+#h1_num {
+    margin: 5px;
+    padding: 5px 10px;
+    background-color:skyblue;
+}
+
+#array-details{
+    margin: 20px 0;
+}
+
+label {
+    background-color: rgb(216, 228, 147);
+    margin: 0 5px 0 0;
+    padding: 10px 15px;
+    border-width: 1px;
+    color: black;
+    font-size: 16px;
+}
+
+#heading {
+    color: white;
+    margin-bottom: 10px;
+}
+
+#number_block {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
